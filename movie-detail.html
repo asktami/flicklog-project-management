@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HTML wireframe - MovieDetail</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/normalize/6.0.0/normalize.css">
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+     <nav role="navigation"><a href="index.html">FlickLog</a>&nbsp;|&nbsp;
+    <a href="movie-list.html">Watchlist</a>&nbsp;|&nbsp;
+    <a href="movie-list.html">Reviews</a>&nbsp;|&nbsp;
+    <a href="index.html">Logout</a></nav>
+    
+    <main role="main">
+        <header role="banner">
+            <h1>Movie Detail</h1>
+        </header>
+        
+       
+		<section>
+            <form action="movie-list.html" method="post">
+            <input type="text" placeholder="Search for movies">
+            <input type="submit" value="search">
+            </form>
+        </section>
+        
+         
+        <section>
+            <p>Image</p>  
+            <p><a href="movie-detail.html">Interstellar</a></p>
+            <p>Release Date: 2014-11-05</p>
+            <p> Running Time: 169 mins</p>
+            <p>Adventure, Drama, Science Fiction</p>
+            
+            <p>Mankind was born on Earth. It was never meant to die here.</p>
+            <p class="description">Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.</p>
+        	<p><button>ADD TO WATCHLIST</button></p>
+        </section>
+
+
+        <section>
+            <h3>Reviews</h3>
+            <ul class="reviews">
+            <li><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse maximus dignissim semper. Duis porttitor placerat laoreet. Donec ultrices arcu non lorem convallis ullamcorper. </p>
+            <p class="rating">&#9733;&#9733;&#9733;&#9733;</p>
+            <p class="user">Movie1</p>
+            
+            <p><button>Update</button><button>Delete</button></p>
+            </li>
+            
+            <li><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse maximus dignissim semper. Duis porttitor placerat laoreet. Donec ultrices arcu non lorem convallis ullamcorper. </p>
+            <p class="rating">&#9733;&#9733;</p>
+            <p class="user">J. Doe</p>
+            
+            </li>
+            
+            </ul>
+            
+        </section>
+        
+        
+        <section>
+        <header>
+            <h3>Add Review</h3>
+        </header>
+        <form>
+            <div>
+              <label for="review">Review</label>
+              <input type="textarea" name="review" id="review" placeholder="" required rows="5" cols="33"/>
+            </div>
+            <div>
+              <label for="rating">Rating</label>
+              <input type="number" name="rating" id="rating" min="1" max="5" required />
+            </div>
+            
+            <button type="submit">Save</button>
+        </form>
+        </section>
+        
+       
+    </main>
+    <footer role="content-info">Footer</footer>
+</body>
+</html>

@@ -1,17 +1,43 @@
+App Name: FlickLog
+
+-------------------------------------------------
+USER STORIES
+NOTE: No Administrator functions will exist in this app
+
+As a new user	I want to search for movies	High
+As a new user	I want to see movie details	High
+As a new user	I want to sign up for an account 	High
+As a new user	I want to log in to my account 	High
+
+As a returning user	I want to search for movies	High
+As a returning user	I want to see movie details	High
+As a returning user	I want to sign into my account 	High
+As a returning user	I want to see my watchlist	Medium
+As a returning user	I want to add movies to my watchlist	Medium
+As a returning user	I want to review movies	Low
+As a returning user	I want to see movie previews on YouTube	Low
+-------------------------------------------------
+
+
+Screen Names:
+- LANDING PAGE
+- REGISTRATION FORM
+- LOGIN FORM
+- MOVIE LIST
+- MOVIE DETAIL
+
 # flicklog-project-management
 
-[View Live](https://asktami.github.io/flicklog-project-management/)
-
-Issues, Project, User Stories and Wireframes for FlickLog - 2nd Bloc.io Fullstack Capstone.
+Issues, Project, User Stories and Wireframes for FlickLog - Bloc.io 2nd Fullstack Capstone.
 
 ## App Name: FlickLog
 
 ## Top 5 Wireframes
-  1. [Landing Page](https://asktami.github.io/flicklog-project-management/index.html)
-  2. [Registration Form](https://asktami.github.io/flicklog-project-management/registration-form.html)
-  3. [Login Form](https://asktami.github.io/flicklog-project-management/login-form.html)
-  4. [Movie List](https://asktami.github.io/flicklog-project-management/movie-list.html)
-  5. [Movie Detail](https://asktami.github.io/flicklog-project-management/movie-detail.html)
+  1. Landing Page
+  2. Registration Form
+  3. Login Form
+  4. Movie List
+  5. Movie Detail
 
 ## Top 5 User Stories
 ### 1. As a new user I want to sign up for an account
