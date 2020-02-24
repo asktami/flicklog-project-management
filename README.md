@@ -4,8 +4,7 @@
 
 Issues, Project, User Stories and Wireframes for FlickLog - 2nd Bloc.io Fullstack Capstone.
 
-## App Name: FlickLog
-### FlickLog 
+### App Name: FlickLog
 ### Movie diary and watchlist
 
 -   use TheMovieDb API (https://www.themoviedb.org/)
