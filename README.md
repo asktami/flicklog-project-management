@@ -9,7 +9,7 @@ Issues, Project, User Stories and Wireframes for FlickLog - 2nd Bloc.io Fullstac
 
 -   use TheMovieDb API (https://www.themoviedb.org/)
 -   1st screen shows instructions and buttons to browse / login / register
--   browse: search form to search for movies by title + list of moview noew playing in theatres
+-   browse: search form to search for movies by title + list of moview now playing in theatres
 -   anyone can register and login
 -   anyone can search for a movie and see movie details and reviews added by other users
 -   only after logging in can users can add/update/delete a movie review; they can only edit/delete a review they created
