@@ -7,8 +7,8 @@ Issues, Project, User Stories and Wireframes for FlickLog - 2nd Bloc.io Fullstac
 ## App Name: FlickLog
 
 ## Descripton
-# APP NAME: FlickLog 
-# Movie diary and watchlist
+### APP NAME: FlickLog 
+### Movie diary and watchlist
 
 -   use TheMovieDb API (https://www.themoviedb.org/)
 -   1st screen shows instructions and buttons to browse / login / register
@@ -21,7 +21,7 @@ Issues, Project, User Stories and Wireframes for FlickLog - 2nd Bloc.io Fullstac
 	- can click on movie to:
 		- add a review
 		- add that movie to their ‘watch list’
-- can click on their 'watch list' to view a list of movies they want to see
+	- can click on their 'watch list' to view a list of movies they want to see
 
 ## Top 5 Wireframes
   1. [Landing Page](https://asktami.github.io/flicklog-project-management/index.html)
