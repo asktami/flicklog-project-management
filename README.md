@@ -17,7 +17,7 @@ Issues, Project, User Stories and Wireframes for FlickLog - 2nd Bloc.io Fullstac
 - after logging in a user can search for movies, and:
 	- can click on movie to:
 		- add a review
-		- add that movie to their ‘watch list’
+		- add that movie to their watchlist
 	- can click on their 'watch list' to view a list of movies they want to see
 
 ## Top 5 Wireframes
